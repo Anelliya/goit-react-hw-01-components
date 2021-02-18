@@ -1,0 +1,33 @@
+.friend_list {
+    margin : auto;
+    padding: 20px;
+}
+
+.item {
+    display      : flex;
+    align-items  : center;
+    padding      : 10px;
+    margin       : auto;
+    margin-bottom: 10px;
+    width        : 320px;
+    box-shadow   : 0 0 10px 0 grey;
+
+}
+
+.avatar {
+    margin-right    : 10px;
+    padding         : 5px;
+    background-color: gainsboro;
+    box-shadow      : 0 0 10px 0 grey;
+}
+
+.name {
+    display    : inline;
+    font-size  : 20px;
+    font-weight: bold;
+}
+
+
+.status {
+    margin-right: 10px;
+}
